@@ -1,0 +1,37 @@
+{
+    "1": {
+        "Name": "seq_1",
+        "Position": "101",
+        "Base": "C",
+        "ac4C Probability": "50.03%",
+        "ac4C": "Yes"
+    },
+    "2": {
+        "Name": "seq_2",
+        "Position": "101",
+        "Base": "C",
+        "ac4C Probability": "50.00%",
+        "ac4C": "Yes"
+    },
+    "3": {
+        "Name": "seq_3",
+        "Position": "101",
+        "Base": "C",
+        "ac4C Probability": "50.10%",
+        "ac4C": "Yes"
+    },
+    "4": {
+        "Name": "seq_4",
+        "Position": "101",
+        "Base": "C",
+        "ac4C Probability": "50.06%",
+        "ac4C": "Yes"
+    },
+    "5": {
+        "Name": "seq_5",
+        "Position": "101",
+        "Base": "C",
+        "ac4C Probability": "50.05%",
+        "ac4C": "Yes"
+    }
+}
