@@ -12,4 +12,4 @@ python train_iac4C-GRU.py --device cuda:1 --train_file ./datalist/true-train.csv
 ## 3 Predictive model score
 
 ```shell
-python Gru-iac4C_predict --input_fa ./datalist/seq.fa --result_csv result.csv --result_json result.json --module ./mix_module.pth
+python Gru-iac4C_predict --input_fa ./datalist/seq.fa --result_csv results.csv --result_json results.json --module ./mix_module.pth
