@@ -5,7 +5,7 @@
 ## 2 Training the model
 
 ```shell 
-python train_iac4C-GRU.py --device cuda:1 --train_file ./datalist/true-train.csv --test_file ./datalist/true-test.csv --output_pth ./mix_module.pth --output_csv ./tra.csv &
+python train_iac4C-GRU.py --device cuda:1 --train_file ./datalist/true-train.csv --test_file ./datalist/true-test.csv --output_pth ./mix_module.pth --output_csv ./tra.csv 
 
 ```
 ## 3 Predictive model score
