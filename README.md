@@ -12,3 +12,10 @@ python train_iac4C-GRU.py --device cuda:1 --train_file ./datalist/true-train.csv
 
 ```shell
 python Gru-iac4C_predict --input_fa ./datalist/seq.fa --result_csv results.csv --result_json results.json --module ./mix_module.pth
+
+
+## In order to make it easy for you to use, we have built a website that can be used directly
+
+```shell
+https://newbreeding.ctgu.edu.cn/
+```
